@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Amanda Lee</h1>
+<p align="center">
+  <img src="https://github.com/zulen3/zulen3/raw/main/assets/header-github.gif" alt="Hi, I'm Amanda">
+</p>
+
 <h3 align="center">Environmental and Water Engineer | Data Analyst | Geospatial Enthusiast | Leveraging data to drive sustainable solutions with Python, SQL, and GIS tools.</h3>
 
 
