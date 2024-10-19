@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **innovative ways to make the world a better place for all living beings through data-driven solutions.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/zulen3/amanda-s_portfolio](https://github.com/zulen3/amanda-s_portfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/zulen3](https://github.com/zulen3)
 
 - 💬 Ask me about **creating charts in QGIS, organizing datasets, working on sanitation projects, or spatial databases.**
 
